@@ -16,6 +16,7 @@ import java.net.http.HttpResponse;
 import java.util.ArrayList;
 import java.util.List;
 
+/* Avoid Saving state/values in Spring service. */
 @Service
 public class CoronaVirusDataService {
 
